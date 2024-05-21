@@ -10,6 +10,8 @@ public class Test1 {
 		int a=10;
 		System.out.println(a);
 
+		
+		System.out.println("New code addded 21st 2024");
 	}
 
 }
